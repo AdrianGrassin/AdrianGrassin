@@ -11,7 +11,7 @@
 <em>Hello fellow coder comrade if you arrived to this place, then you are in a good place, my code is your code but use it wisely. <br>
 Most of the code written here is about Uni practices so maybe you'll find something interesting.</em>
   
-## Main Languajes
+## These are my main Languajes
   <p align="center">
      <code><img width="40" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png"></code>
      <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"></code>
