@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&hide_border=true&username=AdrianGrassin&layout=compact&count_private=true&include_all_commits=true&hide=Makefilelayout=compact" />
 </a>
 <a>
-<img align="center" src="https://media.tenor.com/fTTVgygGDh8AAAAM/kitty-cat-sandwich.gif" />
+<img align="right" src="https://media.tenor.com/fTTVgygGDh8AAAAM/kitty-cat-sandwich.gif" />
 </a>
 
 
