@@ -11,10 +11,10 @@
 <em>Hello fellow coder comrade if you arrived to this place, then you are in a good place, my code is your code but use it wisely. <br>
 Most of the code written here is about Uni practices so maybe you'll find something interesting.</em>
   
-## My Tools
-  <p align="center"
+## Main Languajes
+  <p align="center">
      <code><img width="40" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png"></code>
      <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"></code>
      <code><img width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png"></code>
-     <code><img width="40" src="https://plugins.jetbrains.com/files/13954/279571/icon/pluginIcon.png"></code>
+     <code><img width="40" src="https://github.com/AdrianGrassin/AdrianGrassin/blob/main/pluginIcon.png"></code>
    </p>
