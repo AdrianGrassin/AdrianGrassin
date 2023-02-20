@@ -6,7 +6,7 @@
 <br><br><br>
 
 --------------------------------------------------
-## About this repo
+## About this profile
 
 <em>Hello fellow coder comrade if you arrived to this place, then you are in a good place, my code is your code but use it wisely. <br>
 Most of the code written here is about Uni practices so maybe you'll find something interesting. <br></em>
