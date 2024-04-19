@@ -19,6 +19,7 @@ Most of the code written here is about Uni practices so maybe you'll find someth
      <code><img width="40" src="https://github.com/AdrianGrassin/AdrianGrassin/blob/main/Windows-10-Icon.png"></code>
      <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png"></code>
      <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+     <code><img width="40" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4"></code>
 
    </p>
 
