@@ -29,4 +29,6 @@ Most of the code written here is about Uni practices so maybe you'll find someth
      <code><img width="40" src="https://user-images.githubusercontent.com/72519537/215605881-e89835a4-524f-4b76-91aa-4726ffe46336.png"></code>
      <code><img width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png"></code>
      <code><img width="40" src="https://github.com/AdrianGrassin/AdrianGrassin/blob/main/pluginIcon.png"></code>
+     <code><img width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw1-shun4jtjBfY8qiXm-nDW&ust=1713621991552000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi6z8K5zoUDFQAAAAAdAAAAABAE"></code>
+     <code><img width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw0ocTFWr_4oJ1Iw97nCkTTC&ust=1713622014176000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiltc25zoUDFQAAAAAdAAAAABAE"></code>
    </p>
