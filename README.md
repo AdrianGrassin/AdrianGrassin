@@ -24,8 +24,8 @@ This profile is a mix of university projects, experiments, and things I wanted t
 ### GitHub activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Public GitHub activity" width="52%" />
-  <img src="./profile/languages.svg" alt="Languages in my public repositories" width="45%" />
+  <img src="./profile/stats.svg" alt="Public GitHub activity" align="top" width="52%" />
+  <img src="./profile/languages.svg" alt="Languages in my public repositories" align="top" width="45%" />
 </p>
 
 <sub>Public repositories · cards refreshed daily with GitHub Actions.</sub>
